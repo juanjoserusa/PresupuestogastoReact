@@ -38,7 +38,7 @@ Para correr la aplicación en su máquina local, siga estos pasos:
 3. Instale las dependencias: `npm install`
 4. Ejecute la aplicación: `npm run dev`
 
-La aplicación se ejecutará en `http://localhost:3000/` en su navegador.
+La aplicación se ejecutará en `http://localhost:5173/` en su navegador.
 
 
 
