@@ -10,12 +10,6 @@ Este proyecto es una aplicación web de control de gastos que permite al usuario
 
 
 
-## Enlace
-
- - Dirección URL   https://citasveterinariojuanjoserusa.netlify.app/
-
-
-
 ## Características
 
 - Permite ingresar gastos y categorías a través de un formulario.
